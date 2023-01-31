@@ -274,3 +274,6 @@ ehthumbs_vista.db
 # Windows shortcuts
 
 # End of https://www.toptal.com/developers/gitignore/api/node,windows,macos,linux,visualbasic,git
+
+#Editor
+.vscode
